@@ -14,4 +14,4 @@
 
 # View Note
 
-[ View Note ] | <img src="sscreenshots\Screenshot_1643966198.png" height= "600"/>
+[ View Note ] | <img src="screenshots\Screenshot_1643966198.png" height= "600"/>
