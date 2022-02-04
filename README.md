@@ -1,6 +1,6 @@
 # First Screen
 
-[First Screen] | (https://drive.google.com/file/d/1_LgvhJVSJ4984QN_vOlsEwdpgVIlis-X/view?usp=sharing)
+![First Screen!] (https://drive.google.com/file/d/1_LgvhJVSJ4984QN_vOlsEwdpgVIlis-X/view?usp=sharing)
 
 # Add Note
 
