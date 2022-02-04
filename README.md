@@ -1,6 +1,6 @@
 # First Screen
 
-[First Screen] | <img src="screenshots\Screenshot_1643966128.png" height= "600"/>
+[First Screen] | (https://drive.google.com/file/d/1_LgvhJVSJ4984QN_vOlsEwdpgVIlis-X/view?usp=sharing)
 
 # Add Note
 
