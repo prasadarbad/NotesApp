@@ -1,6 +1,8 @@
 # First Screen
 
-![First Screen] (https://github.com/prasadarbad/NotesApp/blob/main/screenshots/Screenshot_1643966128.png?raw=true)
+![First Screen] <img src="screenshots\Screenshot_1643966128.png" height= "600"/>
+
+
 
 # Add Note
 
